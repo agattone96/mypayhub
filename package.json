@@ -1,0 +1,21 @@
+{
+  "name": "rent-tracking-portal",
+  "version": "1.0.0",
+  "description": "A Next.js based portal for tracking rent payments for tenants and landlords",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.4.6",  
+    "react": "18.2.0",  
+    "react-dom": "18.2.0",  
+    "next-auth": "^4.10.0",  
+    "chart.js": "^3.7.1"  
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

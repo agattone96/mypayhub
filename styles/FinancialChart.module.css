@@ -1,0 +1,17 @@
+.chartContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.chartTitle {
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
